@@ -16,5 +16,13 @@ public class GitTest {
         System.out.println("hello git4-master");
         System.out.println("push test");
          System.out.println("github test");
+        System.out.println("github test");
+        System.out.println("github test");
+        System.out.println("github test");
+        System.out.println("github test");
+        System.out.println("github test");
+        System.out.println("github test");System.out.println("github test");
+        System.out.println("github test");
+        
     }
 }
